@@ -1,0 +1,1 @@
+Burdaki amaç docker üzerinden redis client yazmak  
